@@ -23,9 +23,9 @@ Welcome to my portfolio website! This website showcases my projects, skills, and
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/rajkumara2002/RK.git
+   git clone https://github.com/rajkumara2002/CBTCIP.git
 2. ```sh
-   cd RK
+   cd CBTCIP
    ```
 
 ## 🤝 Contributing
